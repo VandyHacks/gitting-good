@@ -1,5 +1,7 @@
-# gitting-good
-A internal workshop designed to familiarize the VandyHacks dev team with Git
+# Git & GitHub for All
+This workshop is fun!
 
-
-Kenneth
+Contributors:
+Matt
+Xue
+Kenny
