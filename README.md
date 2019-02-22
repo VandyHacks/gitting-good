@@ -1,2 +1,7 @@
 # gitting-good
-A internal workshop designed to familiarize the VandyHacks dev team with Git
+An internal workshop designed to familiarize the VandyHacks dev team with Git
+
+
+
+
+Austin
